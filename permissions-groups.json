@@ -1,0 +1,74 @@
+{
+  "persona!": [
+    "private",
+    "meta-feeds"
+  ],
+
+  "social-network": [
+    "scat_message",
+    "gathering",
+    "post",
+    "about",
+    "meta-feeds",
+    "tag",
+    "blog"
+  ],
+
+  "meta-feeds": [
+    "vote",
+    "contact",
+    "channel",
+    "share",
+    "about",
+    "micro",
+    "curation"
+  ],
+
+  "network": [
+  "pub",
+  "flag",
+  "ssb-dns"
+  ],
+
+  "chess": [
+    "chess_move",
+    "chess_invite_accept",
+    "chess_invite",
+    "chess_game_end",
+    "chess_chat"
+  ],
+
+  "claims": [
+    "talenet-identity-skill_assignment",
+    "talenet-skill-create",
+    "talenet-idea-association",
+    "talenet-skill-similarity"
+  ],
+
+  "npm": [
+  "npm-packages",
+  "npm-prebuilds"
+  ],
+
+  "git": [
+    "git-repo",
+    "git-update",
+    "issue",
+    "pull-request",
+    "issue-edit"
+  ],
+
+  "legacy": [
+    "ssb_chess_invite_accept",
+    "ssb_chess_invite",
+    "ssb_chess_move",
+    "ssb_chess_game_end",
+    "flag"
+  ],
+  "ssb-mutual": [
+  "mutual/credit",
+  "mutual/account"
+  ],
+
+  "fire-hose": ["*", "!*"]
+}
