@@ -29,12 +29,12 @@ This is important to note because wording will have to be designed to properly c
 
 example:
 
-```js
-module.exports = {
-  // 'bar' will refernce the top level key so in this case 'bar' is 'baz'
-  foo: ['bar'],
+'bar' will refernce the top level key so in this case 'bar' is 'baz'
+```json
+{
+  "foo": ["bar"],
 
-  bar: ['baz'],
+  "bar": ["baz"],
 
 }
 ```
