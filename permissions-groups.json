@@ -69,6 +69,12 @@
   "mutual/credit",
   "mutual/account"
   ],
+  
+  "dark-crystal": [
+    "dark-crystal/root",
+    "dark-crystal/ritual",
+    "dark-crystal/shard"
+  ],
 
   "fire-hose": ["*", "!*"]
 }
