@@ -29,7 +29,7 @@ This is important to note because wording will have to be designed to properly c
 
 example:
 
-'bar' will refernce the top level key so in this case 'bar' is 'baz'
+'bar' will reference the top level key so in this case 'bar' is 'baz'
 ```json
 {
   "foo": ["bar"],
