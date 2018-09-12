@@ -46,6 +46,11 @@
     "talenet-skill-similarity"
   ],
 
+  "ssb-loomio": {
+    "poll",
+    "position"
+  },
+
   "npm": [
   "npm-packages",
   "npm-prebuilds"
