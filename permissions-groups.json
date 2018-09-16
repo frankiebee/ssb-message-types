@@ -11,7 +11,8 @@
     "about",
     "meta-feeds",
     "tag",
-    "blog"
+    "blog",
+    "bookclub"
   ],
 
   "meta-feeds": [
@@ -43,6 +44,11 @@
     "talenet-skill-create",
     "talenet-idea-association",
     "talenet-skill-similarity"
+  ],
+
+  "ssb-loomio": [
+    "poll",
+    "position"
   ],
 
   "npm": [
